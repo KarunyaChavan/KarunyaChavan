@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarunyaChavan
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Full Stack Development.
-- 💞️ I’m looking to collaborate on web applications projects.
+- 👀 I’m interested in AI-ML.
+- 🌱 I’m currently learning DSA and Machine Learning.
+- 💞️ I’m looking to collaborate on ML projects.
 - 📫 You can reach me at karunyachavan84@outlook.com
 
 <!---
