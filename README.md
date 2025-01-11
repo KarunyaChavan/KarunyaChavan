@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarunyaChavan
-- 👀 I’m interested in AI-ML.
-- 🌱 I’m currently learning DSA and Machine Learning.
-- 💞️ I’m looking to collaborate on ML projects.
+- 👀 I’m very interested in AI-ML, Data Science and DevOps.
+- 🌱 I’m currently learning System Administration.
+- 💞️ I’m looking to collaborate on any projects ideas.
 - 📫 You can reach me at karunyachavan84@outlook.com
 
 <!---
