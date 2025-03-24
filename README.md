@@ -12,7 +12,7 @@
 
 ### 🚀 [FoodRxCheck](#)
 <p>
-  <strong>Tech Stack:</strong> React Native, Expo, Supabase  
+  <strong>Tech Stack:</strong> React Native, Expo, Supabase <br> 
   <strong>Description:</strong> A mobile app that identifies potential food-drug interactions, providing critical information to both healthcare professionals and patients.  
 </p>
 <ul>
@@ -25,7 +25,7 @@
 
 ### 👁️ [Realtime Face Recognition with Excel Integration](#)
 <p>
-  <strong>Tech Stack:</strong> Python, OpenCV, Excel Automation  
+  <strong>Tech Stack:</strong> Python, OpenCV, Excel Automation<br>
   <strong>Description:</strong> A real-time face recognition tool with automatic Excel data logging.  
 </p>
 <ul>
@@ -38,7 +38,7 @@
 
 ### 📊 [SPPU Marksheet to Excel Automation](#)
 <p>
-  <strong>Tech Stack:</strong> Python, Pandas, Excel Automation  
+  <strong>Tech Stack:</strong> Python, Pandas, Excel Automation<br>
   <strong>Description:</strong> A script that extracts and organizes SPPU mark sheets into Excel format.  
 </p>
 <ul>
@@ -51,7 +51,7 @@
 
 ### 🔒 [OpenSteganography Tool](#)
 <p>
-  <strong>Tech Stack:</strong> Python, PIL, Cryptography  
+  <strong>Tech Stack:</strong> Python, PIL, Cryptography<br>
   <strong>Description:</strong> A tool for hiding messages inside image files using steganography.  
 </p>
 <ul>
