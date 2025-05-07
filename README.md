@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Karunya Manoj Chavan 🌟</h1>
+<h1 align="center">Karunya Manoj Chavan</h1>
 <h4 align="center">PARRAIN</h4>
 
 <p align="center">
@@ -20,12 +20,12 @@
 <div align="center" style="margin:12px 0;">
   <img src="https://static.designandreuse.com/img20/20210415b_1.jpg" width="200px" alt="CXL Simulator" style="border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,0.1);" />
 </div>
-- **Architecture & Goal:** Building a modular C++ simulator that faithfully emulates the CXL 2.0 stack, from link initialization to high-level memory services.  
-- **Device Enumeration & BAR Decoding:** Simulated PCIe bus scans, Base Address Register (BAR) mappings, and dynamic discovery of CXL-compliant devices.  
-- **Coherency & Protocol Layers:** Implemented cache-coherency state machines, host↔device messaging, and basic memory access flows.  
-- **MCTP Integration:** Added Memory Component Transport Protocol support for robust in-band device control and error reporting.  
-- **External ROM & Memory Ops:** Modeled ROM fetches for firmware-level initialization and sketched host-managed memory pooling scenarios.  
-- **Ongoing Enhancements:** Extending dynamic device hot-plug, advanced MCTP message queues, and validation against Intel/CXL Consortium reference flows.
+- Architecture & Goal: Building a modular C++ simulator that faithfully emulates the CXL 2.0 stack, from link initialization to high-level memory services.<br>  
+- Device Enumeration & BAR Decoding: Simulated PCIe bus scans, Base Address Register (BAR) mappings, and dynamic discovery of CXL-compliant devices.<br>
+- Coherency & Protocol Layers: Implemented cache-coherency state machines, host↔device messaging, and basic memory access flows.<br>  
+- MCTP Integration: Added Memory Component Transport Protocol support for robust in-band device control and error reporting.<br>  
+- External ROM & Memory Ops: Modeled ROM fetches for firmware-level initialization and sketched host-managed memory pooling scenarios.<br>
+- Ongoing Enhancements: Extending dynamic device hot-plug, advanced MCTP message queues, and validation against Intel/CXL Consortium reference flows.<br>
 
 ---
 
@@ -33,11 +33,10 @@
 <div align="center" style="margin:12px 0;">
   <img src="./foodRxCheckLogo.png" width="200px" alt="FoodRxCheck" style="border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,0.1);" />
 </div>
-- **End-to-End Full-Stack:** Developed cross-platform mobile (React Native + Expo) and responsive web (React + Vite) clients.  
-- **Backend & Data:** Architected a Supabase (PostgreSQL) backend with row-level security, hosting 500+ curated food–drug interaction records.  
-- **Search & Caching:** Engineered full-text search indices and in-memory caches—reduced average lookup latency by 40%.  
-- **CI/CD & Deployment:** Containerized services with Docker, automated builds/tests via GitHub Actions, and deployed to a cloud VM cluster.  
-- **Production Impact:** Live at Deenanath Mangeshkar Hospital since Apr 2025—empowering HCPs with instant safety alerts.
+- End-to-End Full-Stack: Developed cross-platform mobile (React Native + Expo) and responsive web (React + Vite) clients.<br>  
+- Backend & Data: Architected a Supabase (PostgreSQL) backend with row-level security, hosting 500+ curated food–drug interaction records.<br>  
+- Search & Caching: Engineered full-text search indices and in-memory caches—reduced average lookup latency by 40%.<br>  
+- Production Impact: Live at Deenanath Mangeshkar Hospital since Apr 2025—empowering HCPs with instant safety alerts.<br>
 
 ---
 
@@ -45,11 +44,11 @@
 <div align="center" style="margin:12px 0;">
   <img src="https://technocometsolutions.com/wp-content/uploads/2022/04/MEAN-Stack-Architecture.png" width="200px" alt="Attendance Dashboard" style="border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,0.1);" />
 </div>
-- **MEAN Stack Design:** Built Angular front end with Chart.js visualizations and Node.js/Express APIs.  
-- **Authentication & Roles:** Implemented JWT-based auth with three roles (Admin, Teacher, Student), each seeing tailored dashboards.  
-- **Data Layer:** Connected to MongoDB Atlas, structured collections for classes, sessions, and attendance logs.  
-- **Features & UX:** Dynamic filters, date-range printing/export, and per-class drill-downs—ensured sub-second chart updates on 10k+ records.  
-- **Scalability:** Indexed queries, lazy loading, and service-worker caching for offline resilience.
+- MEAN Stack Design: Built Angular front end with Chart.js visualizations and Node.js/Express APIs.<br>
+- Authentication & Roles: Implemented JWT-based auth with three roles (Admin, Teacher, Student), each seeing tailored dashboards.<br>
+- Data Layer: Connected to MongoDB Atlas, structured collections for classes, sessions, and attendance logs.<br>
+- Features & UX: Dynamic filters, date-range printing/export, and per-class drill-downs—ensured sub-second chart updates on 10k+ records.<br>
+- Scalability: Indexed queries, lazy loading, and service-worker caching for offline resilience.
 
 ---
 
@@ -57,10 +56,10 @@
 <div align="center" style="margin:12px 0;">
   <img src="https://image.freepik.com/free-vector/abstract-facial-recognition-blue-background_23-2148209493.jpg" width="200px" alt="Face Recognition Attendance" style="border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,0.1);" />
 </div>
-- **Computer Vision Core:** Leveraged OpenCV for HOG + DNN face detection and LBPH face recognition pipelines.  
-- **Excel Automation:** Automated student roster import/export and attendance marking in `.xlsx` via `openpyxl`.  
-- **Real-Time Sync:** Persisted logs to Firebase Firestore, enabling live updates across teacher dashboards.  
-- **Reliability & UX:** Added retry logic for recognition failures and user prompts—achieved 98% match accuracy in mixed-lighting conditions.
+- Computer Vision Core: Leveraged OpenCV for HOG + DNN face detection and LBPH face recognition pipelines.<br>
+- Excel Automation: Automated student roster import/export and attendance marking in `.xlsx` via `openpyxl`.<br>
+- Real-Time Sync: Persisted logs to Firebase Firestore, enabling live updates across teacher dashboards.<br>
+- Reliability & UX: Added retry logic for recognition failures and user prompts—achieved 98% match accuracy in mixed-lighting conditions.<br>
 
 ---
 
