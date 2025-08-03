@@ -29,6 +29,23 @@
 
 ---
 
+---
+### 📸 SemantiXel — Semantic Image Retrieval (Jun 2025 – Present)  
+<div align="center" style="margin:12px 0;">
+  <img src="./icon.png" width="200px" alt="SemantiXel Logo" style="border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,0.1);" />
+</div>  
+
+- **Architecture & Goal**: Designed a plugin (in Windows) and systemd service (in Linux) for semantic image search using multimodal AI techniques, enabling natural language and visual similarity queries over large image datasets.  
+- **Text-to-Image Retrieval**: Integrated OpenAI’s CLIP (`clip-vit-base-patch32`) model to map text prompts into visual embedding space and retrieve semantically relevant images.  
+- **Image-to-Image Matching**: Enabled visual similarity search by comparing vision embeddings to find near-duplicate or thematically similar content.  
+- **Embedded Text Indexing**: Incorporated Doctr OCR to detect and index text inside images for searching screenshots, scanned documents, and meme captions.  
+- **Minimal & Fast UI**: Built a clean, responsive interface supporting directory-level image indexing, dynamic threshold tuning, and ranked top-K results.  
+- **Custom Ranking Controls**: Allowed user-defined similarity thresholds and output sizes to fine-tune retrieval precision and recall.  
+ 
+---
+
+---
+
 ### 🚀 FoodRxCheck (Jan 2025 – Mar 2025)  
 <div align="center" style="margin:12px 0;">
   <img src="./foodRxCheckLogo.png" width="200px" alt="FoodRxCheck" style="border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,0.1);" />
@@ -39,16 +56,6 @@
 - Production Impact: Live at Deenanath Mangeshkar Hospital since Apr 2025—empowering HCPs with instant safety alerts.<br>
 
 ---
-
-### 📊 Attendance Management System (Apr 2025)  
-<div align="center" style="margin:12px 0;">
-  <img src="https://technocometsolutions.com/wp-content/uploads/2022/04/MEAN-Stack-Architecture.png" width="200px" alt="Attendance Dashboard" style="border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,0.1);" />
-</div>
-- MEAN Stack Design: Built Angular front end with Chart.js visualizations and Node.js/Express APIs.<br>
-- Authentication & Roles: Implemented JWT-based auth with three roles (Admin, Teacher, Student), each seeing tailored dashboards.<br>
-- Data Layer: Connected to MongoDB Atlas, structured collections for classes, sessions, and attendance logs.<br>
-- Features & UX: Dynamic filters, date-range printing/export, and per-class drill-downs—ensured sub-second chart updates on 10k+ records.<br>
-- Scalability: Indexed queries, lazy loading, and service-worker caching for offline resilience.
 
 ---
 
