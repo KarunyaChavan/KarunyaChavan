@@ -1,4 +1,9 @@
 <h1 align="center">Karunya Manoj Chavan</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KarunyaChavan&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
 <h4 align="center">PARRAIN</h4>
 
 <p align="center">
@@ -10,6 +15,24 @@
 
 <p align="center">
   <img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Developer Economy" width="360px" style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.1);" />
+</p>
+
+---
+
+### KC's GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KarunyaChavan&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarunyaChavan&theme=tokyonight" />
+</p>
+
+---
+
+### Summary Cards
+
+<p align="center">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarunyaChavan&theme=tokyonight" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KarunyaChavan&theme=tokyonight" />
 </p>
 
 ---
