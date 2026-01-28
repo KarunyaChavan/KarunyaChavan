@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Developer Economy" width="360px" style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.1);" />
+  <img src="https://github.com/user-attachments/assets/24a87d04-5250-4126-882e-bcabb628268c" alt="Developer Economy" width="360px" style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.1);" />
 </p>
 
 ---
