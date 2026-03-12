@@ -1,4 +1,5 @@
-<h1 align="center">Karunya Manoj Chavan</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Karunya%20Chavan&fontColor=ffffff&fontSize=40&fontAlignY=35&animation=fadeIn" />
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KarunyaChavan&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -22,17 +23,16 @@
 ### KC's GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KarunyaChavan&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarunyaChavan&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=KarunyaChavan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KarunyaChavan&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
-
-### Summary Cards
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KarunyaChavan&theme=tokyo-night&hide_border=true">
+</p>
 
 <p align="center">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarunyaChavan&theme=tokyonight" />
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KarunyaChavan&theme=tokyonight" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
@@ -51,8 +51,6 @@
 - Ongoing Enhancements: Extending dynamic device hot-plug, advanced MCTP message queues, and validation against Intel/CXL Consortium reference flows.<br>
 
 ---
-
----
 ### 📸 SemantiXel — Semantic Image Retrieval (Jun 2025 – Present)  
 <div align="center" style="margin:12px 0;">
   <img src="./icon.png" width="200px" alt="SemantiXel Logo" style="border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,0.1);" />
@@ -67,8 +65,6 @@
  
 ---
 
----
-
 ### 🚀 FoodRxCheck (Jan 2025 – Mar 2025)  
 <div align="center" style="margin:12px 0;">
   <img src="./foodRxCheckLogo.png" width="200px" alt="FoodRxCheck" style="border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,0.1);" />
@@ -77,8 +73,6 @@
 - Backend & Data: Architected a Supabase (PostgreSQL) backend with row-level security, hosting 500+ curated food–drug interaction records.<br>  
 - Search & Caching: Engineered full-text search indices and in-memory caches—reduced average lookup latency by 40%.<br>  
 - Production Impact: Live at Deenanath Mangeshkar Hospital since Apr 2025—empowering HCPs with instant safety alerts.<br>
-
----
 
 ---
 
@@ -137,3 +131,5 @@
   🔗 <a href="https://linkedin.com/in/karunya-chavan-kc">LinkedIn</a> &nbsp; | &nbsp;
   🔗 <a href="https://github.com/KarunyaChavan">GitHub</a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
