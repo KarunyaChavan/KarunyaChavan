@@ -1,17 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Karunya%20Chavan&fontColor=ffffff&fontSize=40&fontAlignY=35&animation=fadeIn" />
 
+<h3 align="center">PARRAIN</h3>
 
----
-<h4 align="center">PARRAIN</h4>
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/%20Domain-Web%20Development·Data%20Science·DevOps·System%20Programming-orange" alt="Top Skills" />
   <img src="https://img.shields.io/badge/%20Languages-Python·C++·PHP·JavaScript·Java-green" alt="Languages" />
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/24a87d04-5250-4126-882e-bcabb628268c" alt="Developer Economy" width="360px" style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.1);" />
-</p>
+</p> -->
 
 ---
 
