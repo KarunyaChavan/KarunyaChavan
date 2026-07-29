@@ -29,35 +29,40 @@
 
 <p align="center">
   <!-- Programming -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40" alt="Python" /> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="40" alt="Java" /> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="40" alt="C/C++" /> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" alt="JavaScript" /> 
-  <!-- OS -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="40" alt="Linux" /> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" width="40" alt="Windows" /> 
-  <!-- Web & Mobile -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40" alt="React" /> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" width="40" alt="React Native" /> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="40" alt="Angular" /> 
-  <!-- Backend & DB -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40" alt="Node.js" /> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="40" alt="Express" /> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="40" alt="MongoDB" /> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="40" alt="PostgreSQL" /> 
-  <!-- DevOps & Cloud -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="40" alt="Docker" /> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" width="40" alt="Kubernetes" /> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" width="40" alt="Jenkins" /> 
-  <img src="https://th.bing.com/th/id/OIP.kx3F-YEucZVQG5pbc1hIdwAAAA?rs=1&pid=ImgDetMain" width="40" alt="GitHub Actions" /> 
-  <!-- Big Data -->
-  <img src="https://img.shields.io/badge/Hadoop-Intermediate-66CCFF?logo=apache-hadoop" width="40" alt="Hadoop" />
-  <img src="https://img.shields.io/badge/Apache_Spark-Intermediate-E25A1C?logo=apache-spark" width="40" alt="Spark" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scala/scala.png" width="40" alt="Scala" /> 
-  <!-- Virtualization & Systems -->
-   <img src="https://img.shields.io/badge/QEMU-KVM-000000?logo=qemu" width="40" alt="QEMU-KVM" /> 
-</p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="40" alt="Java" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="40" alt="C/C++" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" width="40" alt="PHP" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" width="40" alt="Go" />
 
+  <!-- Web -->
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" width="40" alt="React Native" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="40" alt="Angular" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="40" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="40" alt="Express" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/wordpress/wordpress.png" width="40" alt="WordPress" />
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="40" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="40" alt="PostgreSQL" />
+
+  <!-- DevOps & Cloud -->
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="40" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" width="40" alt="Kubernetes" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" width="40" alt="Jenkins" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" alt="GitHub Actions" />
+
+  <!-- Big Data -->
+  <img src="https://img.shields.io/badge/Hadoop-Intermediate-66CCFF?logo=apache-hadoop" width="40" alt="Hadoop" /> 
+  <img src="https://img.shields.io/badge/Apache_Spark-Intermediate-E25A1C?logo=apache-spark" width="40" alt="Spark" /> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scala/scala.png" width="40" alt="Scala" />
+
+  <!-- Virtualization -->
+  <img src="https://img.shields.io/badge/QEMU-KVM-000000?logo=qemu" width="40" alt="QEMU-KVM" />
+</p>
 
 ---
 
